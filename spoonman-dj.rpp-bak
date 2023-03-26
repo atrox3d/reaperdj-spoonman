@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1679764160
+<REAPER_PROJECT 0.1 "6.68/win64" 1679764299
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
+  CURSOR 18
   ZOOM 100 0 0
-  VZOOMEX 6 0
+  VZOOMEX 5 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -90,5 +90,286 @@
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {42D7A3DA-C0F9-4D62-8CB0-FF5361D12EF9}
+    NAME "soundgarden-spoonman-bass-A minor-90bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {42D7A3DA-C0F9-4D62-8CB0-FF5361D12EF9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 249.08
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {894140D6-81EC-4F5A-846D-A4D3265CCCB6}
+      IID 1
+      NAME "soundgarden-spoonman-bass-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18BAE590-3754-4B79-B387-4BACC98C11B0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\soundgarden-spoonman-bass-A minor-90bpm.m4a"
+      >
+    >
+  >
+  <TRACK {F6AC0F56-8A9F-4487-B8C5-BB8DE7D0963F}
+    NAME "soundgarden-spoonman-drums-A minor-90bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6AC0F56-8A9F-4487-B8C5-BB8DE7D0963F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 249.08
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {94966324-E7FB-411B-BB85-D4A99633B965}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5E31DFB-3C71-4B56-8774-7251BEBDCBF0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+  >
+  <TRACK {5DC21CF0-1F42-4004-89F8-9700B42BF794}
+    NAME "soundgarden-spoonman-other-A minor-90bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5DC21CF0-1F42-4004-89F8-9700B42BF794}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 249.08
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {889BF3B6-B424-4BC1-AA34-289BD5BFAF5A}
+      IID 4
+      NAME "soundgarden-spoonman-other-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70A3D2A1-0B28-4451-86B5-7A16067FEE1F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\soundgarden-spoonman-other-A minor-90bpm.m4a"
+      >
+    >
+  >
+  <TRACK {25C144DC-599E-4F2E-975F-4D6C3D6D6696}
+    NAME "soundgarden-spoonman-vocals-A minor-90bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {25C144DC-599E-4F2E-975F-4D6C3D6D6696}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 249.08
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {24480441-511A-459A-839F-BF3F1843EF16}
+      IID 5
+      NAME "soundgarden-spoonman-vocals-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06246D6A-26FD-4CDA-86FB-DF510D6617D3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\soundgarden-spoonman-vocals-A minor-90bpm.m4a"
+      >
+    >
+  >
+  <TRACK {663180DA-C255-4B6C-AE64-D8288E6A2ABD}
+    NAME soundgarden-spoonman
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {663180DA-C255-4B6C-AE64-D8288E6A2ABD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 249.07900226757369
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {FFC44793-BD66-4C84-AED0-B2965CE68AD1}
+      IID 6
+      NAME soundgarden-spoonman.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2DADFBD-11FA-45D4-B329-EAEF7B581F17}
+      <SOURCE MP3
+        FILE "audio-in\soundgarden-spoonman.mp3" 1
+      >
+    >
+  >
+  <TRACK {7FCD5168-8273-45A0-99A1-06212D3EAACA}
+    NAME "soundgarden-spoonman-metronome-A minor-90bpm"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7FCD5168-8273-45A0-99A1-06212D3EAACA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 44
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B7D70673-1AC5-4295-B70F-B48037AC7A71}
+      IID 3
+      NAME "soundgarden-spoonman-metronome-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {394908A2-D693-4BB8-8B98-98CEB2929974}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\soundgarden-spoonman-metronome-A minor-90bpm.m4a"
+      >
+    >
   >
 >

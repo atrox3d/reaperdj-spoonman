@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1715332076
+<REAPER_PROJECT 0.1 "6.68/win64" 1715343115
   <NOTES 0 2
   >
   RIPPLE 0
@@ -38,6 +38,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_NORMALIZE 256 0.158489 1 0 0 1 1
   TIMELOCKMODE 0
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -73,7 +74,7 @@
   MASTER_FX 1
   MASTER_SEL 0
   <MASTERFXLIST
-    WNDRECT 21 60 703 200
+    WNDRECT 287 262 716 200
     SHOW 0
     LASTSEL 1
     DOCKED 0
@@ -88,7 +89,7 @@
     WAK 0 0
     BYPASS 0 0 0
     <JS sstillwell/eventhorizon2 ""
-      0 -1.5 20 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      0 -0.2 20 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     >
     FLOATPOS 0 0 0 0
     FXID {D1CE8368-9335-4923-BF8E-19BDF23A99CF}
@@ -224,14 +225,14 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 3.98107170553497 0 -1 -1 1
     MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -372,9 +373,9 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 815 201 808 615
+      WNDRECT 85 60 716 200
       SHOW 0
-      LASTSEL 1
+      LASTSEL 2
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.dll 0 CLAVE 1920167789<56535472736F6D72656173616D706C6F> ""
@@ -395,14 +396,14 @@
         JpPJZDLZP5qZmZmZmbE/zczMzMzM6z8AAAAAAAAAAAAAAAAAAAAA/Knx0k1iQD/8qfHSTWJAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA4D8B
         AAAAAAAAAAAAAAAAAAAAAADwP0AAAABVVVVVVVXFP/////8IBAKBQCCAPwAAAAAAAPA/AAAAAAAA8D8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM6kISEa
         ZZA/AAAAAAAA8D/8qfHSTWIwPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
-        AFByb2dyYW0gMQAQAAAA
+        AAAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {F0C21B7E-F87F-BE43-8C77-043C06BBD5A1}
       WAK 0 0
-      BYPASS 0 0 0
+      BYPASS 1 0 0
       <JS sstillwell/eventhorizon2 ""
-        0 -2 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        0 -0.2 20 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
       FXID {4FC627AC-FCCD-A140-BB9E-41B606C54B37}
@@ -2597,7 +2598,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0

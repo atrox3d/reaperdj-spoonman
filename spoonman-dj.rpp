@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1715430472
+<REAPER_PROJECT 0.1 "6.68/win64" 1715676635
   <NOTES 0 2
   >
   RIPPLE 0
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3\spoonman-click.mp3"
+  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3\spoonman-con-click.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 170.422857 18 1000
@@ -82,7 +82,7 @@
     <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
       bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
       776t3g3wrd4AAIA/ED74PKabxDsK16M8AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAAzcxMPQAAAAAAAIA/AAAAAAAAgD4AAAAAAAAAAAAAAAA=
-      AAAQAAAA
+      AFByb2dyYW0gMQAQAAAA
     >
     FLOATPOS 0 0 0 0
     FXID {6C82A588-5D75-49D8-B4FE-329655CC3E37}
@@ -220,13 +220,587 @@
   MARKER 21 251.03889007201545 "" 1 33554431 1 R
   <PROJBAY
   >
+  <TRACK {F6AC0F56-8A9F-4487-B8C5-BB8DE7D0963F}
+    NAME DRUM
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 2.51188643150958 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6AC0F56-8A9F-4487-B8C5-BB8DE7D0963F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 5.01720734651968
+      SNAPOFFS 0
+      LENGTH 0.20018395782832
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94966324-E7FB-411B-BB85-D4A99633B965}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5E31DFB-3C71-4B56-8774-7251BEBDCBF0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.217391304348
+      SNAPOFFS 0
+      LENGTH 18.51161070228755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {4D351D95-C3C0-4A59-AA7F-4AA61C0F4654}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.20018395782832
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FB2BA7D-17F0-44AA-A3D4-287D0556A780}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 23.72900200663555
+      SNAPOFFS 0
+      LENGTH 5.50118731641887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {86ECA17F-81ED-4CD8-8ABA-B59F97A5D704}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 34.71179466011587
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFAE0EEA-7BC0-4702-BDE7-CBFC1E40064E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 29.23018932305442
+      SNAPOFFS 0
+      LENGTH 4.64492575117558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {3C86C873-FC3E-430B-BB25-0793E8ACFD21}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 40.21298197653475
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {604A03DB-237B-49B0-AA84-549194AB0D85}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 33.87511507423
+      SNAPOFFS 0
+      LENGTH 5.46599848496924
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {58AB53FE-25AE-4CFA-97EC-1E2B0027309C}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 44.85790772771033
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51E7B67C-4EA1-44C7-A6CC-7C7E04747449}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 39.34111355919924
+      SNAPOFFS 0
+      LENGTH 9.23619653290876
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {F6A117EE-8161-4057-841F-73AA2E64A99F}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 50.32390621267957
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0AA76848-68C8-4813-BA7C-1AAE0ED9B498}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 48.577310092108
+      SNAPOFFS 0
+      LENGTH 10.43478260869565
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {7557033D-BE3F-4ADD-9D6F-574490CBAA00}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 59.56010274558832
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40196CC9-33CA-46FD-8AA0-21663D35FC5B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 59.01209270080365
+      SNAPOFFS 0
+      LENGTH 9.17213303551871
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {6F333879-5722-4DB5-B467-57E50E988FBA}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 69.99488535428398
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C10A68B-30EB-4015-94E6-9B81E474FC1D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 68.18422573632236
+      SNAPOFFS 0
+      LENGTH 5.44253926400371
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {8A2AC717-D593-4CA8-A2D9-07071C38BD96}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.16701838980269
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B34C53B-6874-40E9-9CE8-7509DAB7FBBD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 73.62676500032607
+      SNAPOFFS 0
+      LENGTH 4.66838497214111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {416BEC06-281B-4629-968D-A384188916A7}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 84.60955765380641
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CF8AA73-4574-4A2F-B647-17C981C972E5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 78.29514997246719
+      SNAPOFFS 0
+      LENGTH 5.44253926400371
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {64291EA9-5E4F-4999-9AF9-16C0EF193B02}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 89.27794262594752
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17DD9BBE-E28E-450B-B31C-0B40B1361DF3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 83.7376892364709
+      SNAPOFFS 0
+      LENGTH 9.19601461848903
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {401FFF67-E12A-4650-9DD9-4843CD9B8082}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 94.72048188995123
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECB9C36B-55F3-4D45-A5F2-6526E354AA44}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 92.93370385495993
+      SNAPOFFS 0
+      LENGTH 10.41589410869676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {7C61548A-3353-48D6-8E51-FD1792B19859}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 103.91649650844026
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {194DBB24-0A48-4E54-93B3-603EF823A2FB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 103.34959796365669
+      SNAPOFFS 0
+      LENGTH 18.35684040552977
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {78CA78DA-FAAF-49FD-B2D1-87BE4F24D4ED}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 114.33239061713702
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {217C8C3E-823B-4DAF-9FDA-6D358700F685}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 121.70643836918646
+      SNAPOFFS 0
+      LENGTH 10.43935332966228
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {66757D1A-C615-4CD4-919D-CBB2D566254D}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 132.68923102266677
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {577FD472-96CC-4537-9800-097FD2C12D8B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 132.14579169884874
+      SNAPOFFS 0
+      LENGTH 7.78846136055705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {3EF833FE-19E2-42F0-AE19-EE2166A7B01C}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 143.12858435232906
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1EED5F2-8455-49BC-9FCD-56EDF92F3EE9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 139.93425305940579
+      SNAPOFFS 0
+      LENGTH 18.32165157408144
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {DAC8DE59-3B2D-40AB-90D6-57009C87F9C2}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 150.91704571288611
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52E534B0-93E5-49A6-8E0C-57C1CE259665}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 158.25590463348723
+      SNAPOFFS 0
+      LENGTH 15.45962661628641
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 R
+      SEL 0
+      IGUID {5294318B-9D30-4841-9934-203D6FB1D37B}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 169.23869728696755
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {774DF711-A875-4BA6-B926-3E494051DB6C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 173.71553124977365
+      SNAPOFFS 0
+      LENGTH 40.97270880661964
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521664 R
+      SEL 0
+      IGUID {AEEA3FAC-C2F7-4330-92DE-14876F32BCC7}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 184.69832390325396
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47609842-5C21-4E10-B3B7-64C7B0894E68}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 214.68824005639328
+      SNAPOFFS 0
+      LENGTH 10.25890201010043
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16810239 R
+      SEL 0
+      IGUID {726B2CEE-E44B-4E41-9E88-CFEFF13828BF}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 225.6710327098736
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8E14B5A-D8B1-4417-A6E6-BBC9C768E053}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 224.94714206649371
+      SNAPOFFS 0
+      LENGTH 18.25285793350608
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {AA206A64-1DD3-4C3A-A0F7-85645A2A128E}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 235.92993471997403
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0EF4B7B-CC02-48E7-963B-C1E05C278CBF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 243.19999999999979
+      SNAPOFFS 0
+      LENGTH 7.83889007201566
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 R
+      SEL 0
+      IGUID {76A66B29-FD5E-444A-ADD9-012167A8BD97}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 254.18279265348011
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AE1FAEB-B15E-403F-90A6-B281DBD6E8E2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+    <ITEM
+      POSITION 251.03889007201545
+      SNAPOFFS 0
+      LENGTH 3.05831727450425
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4F50EE5-30F9-4E12-B5A7-987ADCFAD09A}
+      IID 2
+      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 262.02168272549579
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD996567-4589-4945-A312-42D7A82DC9E7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
+      >
+    >
+  >
   <TRACK {5475EED7-D925-4343-95A2-C963A4C9D155}
     NAME CLICK
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 3.98107170553497 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -1891,580 +2465,6 @@
         TRACKSEL 0
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 22 102 1270 1005 1 0 0 2 1 0 0 1 0 0.5 0 0 1 64
-      >
-    >
-  >
-  <TRACK {F6AC0F56-8A9F-4487-B8C5-BB8DE7D0963F}
-    NAME DRUM
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1.41253754462275 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {F6AC0F56-8A9F-4487-B8C5-BB8DE7D0963F}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 5.01720734651968
-      SNAPOFFS 0
-      LENGTH 0.20018395782832
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {94966324-E7FB-411B-BB85-D4A99633B965}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 16
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E5E31DFB-3C71-4B56-8774-7251BEBDCBF0}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 5.217391304348
-      SNAPOFFS 0
-      LENGTH 18.51161070228755
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16842496 R
-      SEL 0
-      IGUID {4D351D95-C3C0-4A59-AA7F-4AA61C0F4654}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 16.20018395782832
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3FB2BA7D-17F0-44AA-A3D4-287D0556A780}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 23.72900200663555
-      SNAPOFFS 0
-      LENGTH 5.50118731641887
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 R
-      SEL 0
-      IGUID {86ECA17F-81ED-4CD8-8ABA-B59F97A5D704}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 34.71179466011587
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BFAE0EEA-7BC0-4702-BDE7-CBFC1E40064E}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 29.23018932305442
-      SNAPOFFS 0
-      LENGTH 4.64492575117558
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16810239 R
-      SEL 0
-      IGUID {3C86C873-FC3E-430B-BB25-0793E8ACFD21}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 40.21298197653475
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {604A03DB-237B-49B0-AA84-549194AB0D85}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 33.87511507423
-      SNAPOFFS 0
-      LENGTH 5.46599848496924
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 R
-      SEL 0
-      IGUID {58AB53FE-25AE-4CFA-97EC-1E2B0027309C}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 44.85790772771033
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {51E7B67C-4EA1-44C7-A6CC-7C7E04747449}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 39.34111355919924
-      SNAPOFFS 0
-      LENGTH 9.23619653290876
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16810239 R
-      SEL 0
-      IGUID {F6A117EE-8161-4057-841F-73AA2E64A99F}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 50.32390621267957
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0AA76848-68C8-4813-BA7C-1AAE0ED9B498}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 48.577310092108
-      SNAPOFFS 0
-      LENGTH 10.43478260869565
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16842751 R
-      SEL 0
-      IGUID {7557033D-BE3F-4ADD-9D6F-574490CBAA00}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 59.56010274558832
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {40196CC9-33CA-46FD-8AA0-21663D35FC5B}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 59.01209270080365
-      SNAPOFFS 0
-      LENGTH 9.17213303551871
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16777471 R
-      SEL 0
-      IGUID {6F333879-5722-4DB5-B467-57E50E988FBA}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 69.99488535428398
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6C10A68B-30EB-4015-94E6-9B81E474FC1D}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 68.18422573632236
-      SNAPOFFS 0
-      LENGTH 5.44253926400371
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 R
-      SEL 0
-      IGUID {8A2AC717-D593-4CA8-A2D9-07071C38BD96}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 79.16701838980269
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8B34C53B-6874-40E9-9CE8-7509DAB7FBBD}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 73.62676500032607
-      SNAPOFFS 0
-      LENGTH 4.66838497214111
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16810239 R
-      SEL 0
-      IGUID {416BEC06-281B-4629-968D-A384188916A7}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 84.60955765380641
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9CF8AA73-4574-4A2F-B647-17C981C972E5}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 78.29514997246719
-      SNAPOFFS 0
-      LENGTH 5.44253926400371
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 R
-      SEL 0
-      IGUID {64291EA9-5E4F-4999-9AF9-16C0EF193B02}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 89.27794262594752
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {17DD9BBE-E28E-450B-B31C-0B40B1361DF3}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 83.7376892364709
-      SNAPOFFS 0
-      LENGTH 9.19601461848903
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16810239 R
-      SEL 0
-      IGUID {401FFF67-E12A-4650-9DD9-4843CD9B8082}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 94.72048188995123
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {ECB9C36B-55F3-4D45-A5F2-6526E354AA44}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 92.93370385495993
-      SNAPOFFS 0
-      LENGTH 10.41589410869676
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16842751 R
-      SEL 0
-      IGUID {7C61548A-3353-48D6-8E51-FD1792B19859}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 103.91649650844026
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {194DBB24-0A48-4E54-93B3-603EF823A2FB}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 103.34959796365669
-      SNAPOFFS 0
-      LENGTH 18.35684040552977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16777471 R
-      SEL 0
-      IGUID {78CA78DA-FAAF-49FD-B2D1-87BE4F24D4ED}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 114.33239061713702
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {217C8C3E-823B-4DAF-9FDA-6D358700F685}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 121.70643836918646
-      SNAPOFFS 0
-      LENGTH 10.43935332966228
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33489024 R
-      SEL 0
-      IGUID {66757D1A-C615-4CD4-919D-CBB2D566254D}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 132.68923102266677
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {577FD472-96CC-4537-9800-097FD2C12D8B}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 132.14579169884874
-      SNAPOFFS 0
-      LENGTH 7.78846136055705
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 R
-      SEL 0
-      IGUID {3EF833FE-19E2-42F0-AE19-EE2166A7B01C}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 143.12858435232906
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D1EED5F2-8455-49BC-9FCD-56EDF92F3EE9}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 139.93425305940579
-      SNAPOFFS 0
-      LENGTH 18.32165157408144
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33489024 R
-      SEL 0
-      IGUID {DAC8DE59-3B2D-40AB-90D6-57009C87F9C2}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 150.91704571288611
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {52E534B0-93E5-49A6-8E0C-57C1CE259665}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 158.25590463348723
-      SNAPOFFS 0
-      LENGTH 15.45962661628641
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554176 R
-      SEL 0
-      IGUID {5294318B-9D30-4841-9934-203D6FB1D37B}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 169.23869728696755
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {774DF711-A875-4BA6-B926-3E494051DB6C}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 173.71553124977365
-      SNAPOFFS 0
-      LENGTH 40.97270880661964
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33521664 R
-      SEL 0
-      IGUID {AEEA3FAC-C2F7-4330-92DE-14876F32BCC7}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 184.69832390325396
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {47609842-5C21-4E10-B3B7-64C7B0894E68}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 214.68824005639328
-      SNAPOFFS 0
-      LENGTH 10.25890201010043
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16810239 R
-      SEL 0
-      IGUID {726B2CEE-E44B-4E41-9E88-CFEFF13828BF}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 225.6710327098736
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B8E14B5A-D8B1-4417-A6E6-BBC9C768E053}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 224.94714206649371
-      SNAPOFFS 0
-      LENGTH 18.25285793350608
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 16777471 R
-      SEL 0
-      IGUID {AA206A64-1DD3-4C3A-A0F7-85645A2A128E}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 235.92993471997403
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B0EF4B7B-CC02-48E7-963B-C1E05C278CBF}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 243.19999999999979
-      SNAPOFFS 0
-      LENGTH 7.83889007201566
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      COLOR 33554431 R
-      SEL 0
-      IGUID {76A66B29-FD5E-444A-ADD9-012167A8BD97}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 254.18279265348011
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9AE1FAEB-B15E-403F-90A6-B281DBD6E8E2}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      >
-    >
-    <ITEM
-      POSITION 251.03889007201545
-      SNAPOFFS 0
-      LENGTH 3.05831727450425
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B4F50EE5-30F9-4E12-B5A7-987ADCFAD09A}
-      IID 2
-      NAME "soundgarden-spoonman-drums-A minor-90bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 262.02168272549579
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FD996567-4589-4945-A312-42D7A82DC9E7}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/soundgarden-spoonman-drums-A minor-90bpm.m4a"
       >
     >
   >
